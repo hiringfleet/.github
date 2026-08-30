@@ -1,23 +1,45 @@
+<div align="center">
+
 # HiringFleet
 
-**The career platform for international students in the US.**
+### Land your visa-sponsored dream job.
 
-More than a million F-1 students study in the US, and most graduate into the same wall: a 90-day OPT unemployment clock, a job market where the majority of employers don't sponsor visas, and no reliable way to tell which ones do.
+The AI career copilot for international students — from your first day of class to your final job offer.
 
-HiringFleet turns that search into something you can manage. It tracks your full F-1 timeline, from CPT limits through the OPT clock to the H-1B lottery, and points your applications at employers with a real record of sponsoring.
+<br>
 
-**[hiringfleet.com](https://hiringfleet.com)** — free to start, no credit card required.
+[![Website](https://img.shields.io/badge/hiringfleet.com-Start_Free-22c55e?style=for-the-badge)](https://hiringfleet.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hiringfleet)
+[![X](https://img.shields.io/badge/@hiringfleet-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hiringfleet)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hiringfleet)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hiringfleet)
 
-### What's in the platform
+</div>
 
-- **Sponsor database** — verified H-1B sponsors from public DOL and USCIS filings, so you can check a company before spending an application on it.
-- **F-1 timeline tracker** — CPT limits, the 90-day OPT unemployment count, and STEM OPT extension deadlines on one dashboard with a live countdown.
-- **Resume optimization** — AI rewrites that translate international experience into US-standard titles and measurable bullet points, scored against ATS parsing.
-- **Cold outreach** — find the hiring manager, draft an email that mentions OPT eligibility without apologizing for it, then track replies and follow-ups.
-- **Application pipeline** — Kanban-style tracking from first save to signed offer, tied to your visa deadlines.
+---
 
-### How it's built
+## Why we exist
 
-TypeScript end to end. Next.js (App Router) on Vercel, Postgres on Neon through Prisma, Auth.js v5 with TOTP two-factor, Cloudflare R2 for file storage, and Gemini behind the AI features. Background jobs run on n8n and QStash, and every change ships through Playwright end-to-end suites on our own CI runner.
+More than a million international students study in the US on F-1 visas. The day they graduate, a clock starts: 90 days of allowed unemployment on OPT, a job market where most employers don't sponsor visas, and application forms that never say which ones do. Talented people lose offers, status, and years of work to guesswork.
 
-Most of our repositories are private while we build. If you're an international student and want to try the platform, start at [hiringfleet.com](https://hiringfleet.com).
+**Stop applying blindly.** That's our motto, and it's the whole product. Every feature we ship exists to replace guesswork with a clear answer: who sponsors, what's due, and what to do next.
+
+## How we help job seekers
+
+- **Apply where it counts.** Employers are checked against public DOL and USCIS filings, so you know who really sponsors before you spend an application on them.
+- **Own your timeline.** CPT limits, the OPT unemployment clock, and STEM extension deadlines live on one dashboard, counted down to the day.
+- **Get past the filters.** Your resume is rewritten for US recruiters and ATS software — international experience translated, not buried.
+- **Reach real people.** Outreach that presents your OPT eligibility with confidence, and tracks every reply and follow-up for you.
+- **See the whole search.** Every application, from first save to signed offer, next to the deadlines that decide it.
+
+Whether you're an F-1 student planning ahead, a graduate racing the OPT clock, or a professional who needs H-1B sponsorship to stay — the platform is built around your timeline.
+
+<div align="center">
+
+<br>
+
+**Start free at [hiringfleet.com](https://hiringfleet.com) — no credit card required.**
+
+Questions? Reach us at [support@hiringfleet.com](mailto:support@hiringfleet.com)
+
+</div>
