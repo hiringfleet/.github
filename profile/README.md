@@ -1,6 +1,9 @@
 <div align="center">
 
-# HiringFleet
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiringfleet/.github/main/profile/assets/banner-dark.svg">
+  <img alt="HiringFleet — stop applying blindly" src="https://raw.githubusercontent.com/hiringfleet/.github/main/profile/assets/banner-light.svg" width="100%">
+</picture>
 
 ### Land your visa-sponsored dream job.
 

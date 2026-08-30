@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-label="HiringFleet — stop applying blindly">
+  <defs>
+    <linearGradient id="fleet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#059669"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="600" cy="120" rx="460" ry="150" fill="url(#glow)"/>
+  <text x="600" y="128" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="84" font-weight="800" fill="#0f172a">Hiring<tspan fill="url(#fleet)">Fleet</tspan></text>
+  <rect x="568" y="152" width="64" height="5" rx="2.5" fill="url(#fleet)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="7" fill="#6b7280">STOP APPLYING BLINDLY</text>
+</svg>
