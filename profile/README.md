@@ -7,7 +7,7 @@
 
 ### Land your visa-sponsored dream job.
 
-The AI career copilot for international students — from your first day of class to your final job offer.
+The AI career copilot for international students - from your first day of class to your final job offer.
 
 <br>
 
@@ -35,7 +35,7 @@ More than a million international students study in the US on F-1 visas. The day
 - **Reach real people.** Outreach that presents your OPT eligibility with confidence, and tracks every reply and follow-up for you.
 - **See the whole search.** Every application, from first save to signed offer, next to the deadlines that decide it.
 
-Whether you're an F-1 student planning ahead, a graduate racing the OPT clock, or a professional who needs H-1B sponsorship to stay — the platform is built around your timeline.
+Whether you're an F-1 student planning ahead, a graduate racing the OPT clock, or a professional who needs H-1B sponsorship to stay - the platform is built around your timeline.
 
 <div align="center">
 
