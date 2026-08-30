@@ -31,7 +31,7 @@ More than a million international students study in the US on F-1 visas. The day
 
 - **Apply where it counts.** Employers are checked against public DOL and USCIS filings, so you know who really sponsors before you spend an application on them.
 - **Own your timeline.** CPT limits, the OPT unemployment clock, and STEM extension deadlines live on one dashboard, counted down to the day.
-- **Get past the filters.** Your resume is rewritten for US recruiters and ATS software — international experience translated, not buried.
+- **Get past the filters.** Your resume is rewritten for US recruiters and ATS software - international experience translated, not buried.
 - **Reach real people.** Outreach that presents your OPT eligibility with confidence, and tracks every reply and follow-up for you.
 - **See the whole search.** Every application, from first save to signed offer, next to the deadlines that decide it.
 
@@ -41,7 +41,7 @@ Whether you're an F-1 student planning ahead, a graduate racing the OPT clock, o
 
 <br>
 
-**Start free at [hiringfleet.com](https://hiringfleet.com) — no credit card required.**
+**Start free at [hiringfleet.com](https://hiringfleet.com) - no credit card required.**
 
 Questions? Reach us at [support@hiringfleet.com](mailto:support@hiringfleet.com)
 
